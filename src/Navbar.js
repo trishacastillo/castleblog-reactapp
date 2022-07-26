@@ -13,7 +13,7 @@ const Navbar = () => {
         }}>New Blog</Link>
       </div>
     </nav>
-  );
+  ); 
     return (  
         <nav className="navbar">
             <h1>The Castle Blog</h1>

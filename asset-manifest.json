@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/trishacastillo/castleblog-reactapp/static/css/main.1f435e4c.css",
+    "main.js": "/trishacastillo/castleblog-reactapp/static/js/main.2975d9e9.js",
+    "index.html": "/trishacastillo/castleblog-reactapp/index.html",
+    "main.1f435e4c.css.map": "/trishacastillo/castleblog-reactapp/static/css/main.1f435e4c.css.map",
+    "main.2975d9e9.js.map": "/trishacastillo/castleblog-reactapp/static/js/main.2975d9e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f435e4c.css",
+    "static/js/main.2975d9e9.js"
+  ]
+}
